@@ -4,6 +4,7 @@ Dashboard de vendas de uma marca de roupas esportivas, feito em Power BI para o 
 
 ![Página 1: Visão Geral](imagens/pagina1.png)
 ![Página 2: Análise por Estado e Loja](imagens/pagina2.png)
+![Página 3: Insights e Recomendações](imagens/pagina3.png)
 
 ## Objetivo
 
@@ -56,6 +57,9 @@ Taxa de Devolução  = DIVIDE(COUNTROWS('Devolução'), COUNTROWS(Vendas))
 **Página 2: Análise por Estado e Loja**
 - Composição de faturamento por categoria em cada estado (colunas 100% empilhadas).
 - Tabela de desempenho por loja (faturamento, lucro e margem).
+
+**Página 3: Insights e Recomendações**
+- 4 quadros com os principais achados e uma ação recomendada para cada tema: Produtos e Categorias, Estados e Regiões, Margem e Desconto, Canais e Devoluções.
 
 **Filtros (sincronizados nas duas páginas):** Ano, Mês, Região, Estado, Cidade, Categoria, Produto e Tipo de Loja.
 
