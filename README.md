@@ -92,4 +92,4 @@ Power BI Desktop · Power Query (M) · DAX · Excel
 
 ## Autora
 
-[Seu nome] · [LinkedIn] · [E-mail]
+[Ingrid Soares Pereira] · [www.linkedin.com/in/ingrid-soares-455b49344] · [ingridd1soares@gmail.com]
